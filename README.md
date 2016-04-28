@@ -12,6 +12,6 @@ I'm *learning* how to use GitHub. **Yay!**
 * bye
 * 
 
-[I can make links]{https://guides.github.com/activities/hello-world/}
+[I can make links](https://guides.github.com/activities/hello-world/)
 
   
