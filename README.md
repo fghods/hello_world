@@ -8,7 +8,10 @@ I'm *learning* how to use GitHub. **Yay!**
 3. =)
 4. 
 
-* kkk
-* fffff
+* heloo
+* bye
+* 
+
+[I can make links]{https://guides.github.com/activities/hello-world/}
 
   
